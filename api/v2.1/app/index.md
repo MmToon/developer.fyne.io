@@ -32,3 +32,4 @@ NewWithID returns a new app instance using the appropriate runtime driver. The I
 #### types
 
  * [SettingsSchema](settingsschema.html)
+
